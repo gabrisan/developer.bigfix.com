@@ -7,6 +7,8 @@ computer. This is accomplished by using a setting with an an effective date
 passed as a parameter. The date is not optional. The effective date tests are
 the same as for the [setting](./setting.html) command.
 
+The command is available on all platforms starting from the first versions of IBM BigFix.
+
 ## Syntax
 
     administrator delete <operator-name> on <date>
