@@ -7,6 +7,8 @@ This is accomplished by using a BigFix client setting with an effective date
 passed as a parameter. The date is not optional. The effective date tests are
 the same as for the [setting](./setting.html) command.
 
+The command is available on all platforms starting from the first versions of IBM BigFix.
+
 ## Syntax
 
     administrator add <operator-name> on <date>
